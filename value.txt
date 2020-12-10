@@ -1,0 +1,40 @@
+# Created by Octave 5.1.0, Mon Oct 26 16:20:08 2020 GMT <unknown@DESKTOP-HIOE2UQ>
+# name: Electr_conf1
+# type: sq_string
+# elements: 1
+# length: 7
+4-0-0-0
+
+
+# name: Electr_conf2
+# type: sq_string
+# elements: 1
+# length: 7
+1-0-0-0
+
+
+# name: selected_atom1
+# type: scalar
+2
+
+
+# name: selected_atom2
+# type: scalar
+6
+
+
+# name: Xmin
+# type: scalar
+0.10000000000000001
+
+
+# name: hx
+# type: scalar
+0.01
+
+
+# name: Xmax
+# type: scalar
+20
+
+
